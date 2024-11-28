@@ -1,6 +1,6 @@
 <template>
   <div>
-    <router-view></router-view>
+    <p>Aqui fica o rodape personlanizado do Dashboard</p>
   </div>
 </template>
 
