@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkempresa"]=self["webpackChunkempresa"]||[]).push([[562],{8562:function(e,n,r){r.r(n),r.d(n,{default:function(){return l}});var u=r(6768);function a(e,n,r,a,s,t){return(0,u.uX)(),(0,u.CE)("div",null,n[0]||(n[0]=[(0,u.Lk)("h3",null,"Deshboard",-1)]))}var s={},t=r(1241);const c=(0,t.A)(s,[["render",a]]);var l=c}}]);
+//# sourceMappingURL=562.2e9c08d5.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkempresa"]=self["webpackChunkempresa"]||[]).push([[205],{6205:function(e,n,r){r.r(n),r.d(n,{default:function(){return t}});var a=r(6768);function o(e,n,r,o,s,c){return(0,a.uX)(),(0,a.CE)("h5",null,"Componente indicadores")}var s={name:"Indicadores",props:["id"],created(){console.log("Indicador",this.id)}},c=r(1241);const d=(0,c.A)(s,[["render",o]]);var t=d}}]);
+//# sourceMappingURL=205.4e95c43a.js.map
